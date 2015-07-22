@@ -1,0 +1,9 @@
+attributes:
+  ceph_hammer_ec_rgw:
+    value: true
+    label: 'Use erasure pool for RGW'
+    description: 'Description for text field'
+    weight: 25
+    type: "checkbox"
+
+description: "Ceph plugin configuration"
