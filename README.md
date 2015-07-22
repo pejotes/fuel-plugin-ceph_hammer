@@ -1,4 +1,4 @@
-ceph_hammer
+fuel-plugin-ceph_hammer
 ============
 
-Plugin description
+Plugin to integrate Ceph Hammer version into Fuel deployed environment. 
