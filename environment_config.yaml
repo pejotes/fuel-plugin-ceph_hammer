@@ -5,5 +5,11 @@ attributes:
     description: 'Description for text field'
     weight: 25
     type: "checkbox"
+  ceph_hammer_repl_count:
+    value: 2
+    label: 'Ceph replication count'
+    description: 'Description for text field'
+    weight: 30
+    type: "text"
 
 description: "Ceph plugin configuration"
